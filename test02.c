@@ -1,4 +1,4 @@
-include iostream
-main(){
-    
+#include <stdio.h>
+main()
+{
 }
